@@ -25,3 +25,8 @@ He asks you to make it more *rich*, more *interactive*, more... *sexy* (The use 
 That's exactly what you're going to do, by adding two **interactive data visualisation graphics** using javascript.  These graphs will be interactive in the sense that the user can manipulate the graph, such as filtering data, or reveal detailed data when the mouse hovers over it. You are free to design the interaction in your project.
 
 ## result :
+
+[Final result](https://mattnannetti.github.io/js-datavisualisation-challenge/)
+
+I didn't finish completely, got two out of three graphs done. But the week before the holidays was a bit busier than I expected.
+I plan to finish this regardless.
